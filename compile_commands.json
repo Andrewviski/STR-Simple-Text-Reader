@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/STR-simple-text-reader",
+  "command": "/usr/bin/g++    -isystem /usr/local/include/opencv -isystem /usr/local/include  -g3 -gdwarf-2   -o CMakeFiles/STR.dir/src/STR.cpp.o -c /root/STR-simple-text-reader/src/STR.cpp",
+  "file": "/root/STR-simple-text-reader/src/STR.cpp"
+}
+]
